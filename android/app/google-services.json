@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553956103851",
+    "project_id": "abensi-67190",
+    "storage_bucket": "abensi-67190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553956103851:android:bfe6f543c451de9c4309ee",
+        "android_client_info": {
+          "package_name": "com.jaarzx.geoabsensi.absensi_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOn1jcEfXcjDb0F6foHHIFlEaryvGY3Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
